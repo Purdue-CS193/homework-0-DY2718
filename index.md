@@ -1,4 +1,4 @@
-#DY's First CS193 Homework
+# DY's First CS193 Homework
 
 - Passionate Instructors
 - Getting familar with terminal
